@@ -99,6 +99,15 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Rousey",
+      "species": "Doggo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "10"
     }
   ]
 }
