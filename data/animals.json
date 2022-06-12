@@ -110,6 +110,17 @@
         "goofy"
       ],
       "id": "10"
+    },
+    {
+      "name": "Gunner",
+      "species": "Doggo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
